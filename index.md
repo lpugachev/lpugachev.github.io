@@ -1,4 +1,5 @@
-# Basic Information
+## Basic Information
+***
 Ph.D. Candidate   
 Department of Finance  
 University of Oklahoma  
