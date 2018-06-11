@@ -1,4 +1,3 @@
-## Basic Information
 ***
 Ph.D. Candidate   
 Department of Finance  
