@@ -1,0 +1,3 @@
+## Job Market Paper
+### Bank Acquisition: Robing Hood of Stagnant Capital 
+Evidence on how bank merger and acquisition (M&A) impacts bank consumers is mixed. I reexamine deposit and loan volume and price effects for U.S. target markets sampling every ownership-changing M&A between 1998 and 2016. The impact of consolidation on a market varies by the market’s deposit-loan imbalances. In markets with too many deposits relative to loan volumes, M&A reduces deposit gathering and increases lending. With the opposite imbalance, the effects are reversed. M&A price impact is inconclusive. My findings support a welfare-enhancing view of bank M&A: it counterbalances market-level capital flow frictions. 
