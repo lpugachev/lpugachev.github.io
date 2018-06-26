@@ -10,13 +10,13 @@
 
 
 ### Hedging Gone Wild: Was Delta’s Acquisition of Trainer Refinery a Sound Risk Management Strategy?
-- with Abdullah Almansur and William Megginson
+-- with Abdullah Almansur and William Megginson  
 **Resubmission Requested:** (Financial Management) 
 
 ***
 ## Working Papers
 ### Shock Transmission through Shared Directors: Evidence from Bank Enforcement Actions 
-- with Andrea Schertler
+-- with Andrea Schertler
 
 ### Catch Me If You Can: Improving the Scope and Accuracy of Fraud Prediction
-- with Bidisha Chakrabarty, Pamela Moulton, and Frank Wang
+-- with Bidisha Chakrabarty, Pamela Moulton, and Frank Wang
