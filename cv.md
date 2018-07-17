@@ -1,1 +1,1 @@
-{% include cv.html %} 
+{% include current-cv.html %} 
